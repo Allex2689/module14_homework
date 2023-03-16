@@ -1,0 +1,13 @@
+.card__img1 {
+    display: block;
+    width: 300px;
+    height: 200px;
+}
+
+.card__img2 {
+    display: block;
+}
+
+input {
+    width: 200px;
+}
